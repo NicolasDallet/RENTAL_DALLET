@@ -1,0 +1,3 @@
+id,rentalsId,memberId,orderDate,payed
+ro1,rent1;rent2,m1,2019-12-15T11:24:55,true
+ro2,rent3,m2,2019-12-15T10:22:34,true
